@@ -1,0 +1,16 @@
+.idea/
+.vscode/
+.settings/
+.history/
+target/
+node_modules/
+build/
+coverage/
+logs/
+jsconfig.json
+.classpath
+.project
+*.lck
+*.iml
+*.log
+*.lock
